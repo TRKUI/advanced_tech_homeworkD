@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CV - Turki Saeed Ali Abomelha</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            padding: 20px;
+        }
+        .cv-container {
+            background-color: #fff;
+            padding: 25px;
+            margin: auto;
+            width: 700px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        hr {
+            border: 1px solid #ccc;
+        }
+        .profile-img {
+            display: block;
+            margin: 0 auto 15px auto;
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+        }
+    </style>
+</head>
+<body>
+
+<div class="cv-container">
+    <!-- Header -->
+    <img src="images/"PROFILE.jpo.jpeg alt="Profile Picture" class="profile-img">
+    <h1>Turki Saeed AliABU MALIHAH</h1>
+    <p><strong>Student – Advanced Internet Technology</strong></p>
+
+    <hr>
+
+    <!-- Personal Info -->
+    <h2>Personal Information</h2>
+    <ul>
+        <li><strong>Academic ID:</strong> 443310642</li>
+        <li><strong>College:</strong> College of Telecom & Information</li>
+        <li><strong>Email:</strong> 443310642@tvtc.edu.sa</li>
+    </ul>
+
+    <hr>
+
+    <!-- Objective -->
+    <h2>Objective</h2>
+    <p>
+        I am a motivated student at the College of Telecom and Information,
+        enrolled in the Advanced Internet Technology course. I aim to develop
+        my skills in web development and internet technologies.
+    </p>
+
+    <hr>
+
+    <!-- Skills -->
+    <h2>Skills</h2>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Basic JavaScript</li>
+        <li>Git & GitHub</li>
+    </ul>
+
+    <hr>
+
+    <!-- Projects -->
+    <h2>Projects</h2>
+    <ul>
+        <li>Simple CV in HTML/CSS</li>
+        <li>Responsive web page</li>
+        <li>GitHub Repository management</li>
+    </ul>
+
+    <hr>
+
+    <!-- Footer -->
+    <p style="text-align:center; color: #777;">Advanced Internet Technology – Homework 1</p>
+</div>
+
+</body>
+</html>
